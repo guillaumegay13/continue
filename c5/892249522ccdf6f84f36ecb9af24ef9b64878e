@@ -1,0 +1,60 @@
+core/llm/autodetect.ts
+  s_172fa551176b12::t_af54bca602b654 68,127
+gui/src/pages/AddNewModel/configs/providers.ts
+  s_172fa551176b12::t_f3d24b84c14576 227-262
+core/llm/llms/Manifest.vitest.ts
+  s_172fa551176b12::t_e082c4392ac804 1-36
+packages/openai-adapters/src/apis/Manifest.test.ts
+  s_172fa551176b12::t_e8e8c25015fe85 1-34
+core/llm/llms/index.ts
+  s_172fa551176b12::t_75372a57b6c355 39,96
+packages/openai-adapters/src/index.ts
+  s_172fa551176b12::t_567eda349eb010 184-185
+  s_172fa551176b12::t_390af1b4d4ba27 22
+packages/openai-adapters/package.json
+  s_172fa551176b12::t_58c53c4fb3ee45 51
+extensions/vscode/config_schema.json
+  s_172fa551176b12::t_8b029facb70ec5 220
+docs/customize/model-providers/overview.mdx
+  s_172fa551176b12::t_294bff80022ded 38
+core/llm/toolSupport.test.ts
+  s_172fa551176b12::t_7af9f9f959070a 383-395
+gui/src/pages/AddNewModel/configs/models.ts
+  s_172fa551176b12::t_51f0394036b23a 2791-2804
+docs/docs.json
+  s_172fa551176b12::t_06b34d6985e159 110
+docs/customize/model-providers/more/manifest.mdx
+  s_172fa551176b12::t_b6c9906aaaa4c9 1-56
+core/llm/toolSupport.ts
+  s_172fa551176b12::t_63d9f44485caf4 415-420
+core/llm/llms/Manifest.ts
+  s_172fa551176b12::t_5f6ad4dd6c9993 1-28
+packages/openai-adapters/src/apis/Manifest.ts
+  s_172fa551176b12::t_6128567f1a7f9d 1-28
+packages/openai-adapters/src/types.ts
+  s_172fa551176b12::t_2021f3fa111004 56
+packages/openai-adapters/src/apis/AiSdk.ts
+  s_172fa551176b12::t_d318f2c5c62637 49-53
+bun.lock
+  s_172fa551176b12::t_b2bb62cbbdb402 1-676
+core/bun.lock
+  s_172fa551176b12::t_32f53d723bcac0 1-3095
+packages/openai-adapters/bun.lock
+  s_172fa551176b12::t_8fef8a343299fd 1-2370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c5892249522ccdf6f84f36ecb9af24ef9b64878e",
+  "prompts": {},
+  "sessions": {
+    "s_172fa551176b12": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a103a875-9d0f-41be-837c-392fd4654c61",
+        "model": "deepseek/deepseek-v4-flash"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
